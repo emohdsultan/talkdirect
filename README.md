@@ -1,2 +1,2 @@
 # talkdirect
-talkdirect is a program allows you to talk for free
+talkdirect is an app allows you to talk for free
